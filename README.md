@@ -1,4 +1,5 @@
-![logo](![image](https://github.com/user-attachments/assets/ce044f50-8192-4db1-ae08-84afbdf9f112)
+![logo](https://user-images.githubusercontent...
+)
 )
 <h1 align="center">Hi 👋, I'm maheer imam naqvi</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
